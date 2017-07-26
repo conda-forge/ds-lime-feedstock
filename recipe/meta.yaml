@@ -1,6 +1,6 @@
 {% set name = "ds-lime" %}
-{% set version = "0.1.1.26" %}
-{% set sha256 = "4287e4bfe48d1d0194544522a982e2407edf573f668afeebabf740b1b079c2b3" %}
+{% set version = "0.1.1.27" %}
+{% set sha256 = "ee5a0002737e4d95800b1904f509c6e55498c97546c5ab449f9cded381f8b3bd" %}
 
 package:
   name: {{ name|lower }}
